@@ -1,6 +1,6 @@
 <?php
 
-$you_tube_data_api_key = 'AIzaSyDDJxlbP8riIiju8U9vb4PRYTJWDP0JyAs';
+$you_tube_data_api_key = '<your_youtube_data_api_key>';
 
 $chanenl_id = 'UCmst562fALOY2cKb4IFgqEg';
 
